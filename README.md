@@ -1,2 +1,2 @@
 # py-cloudflare
-Some helpful tools to work with Cloudflare.
+A growing collection of Cloudflare API calls that I've implemented as Python functions.
